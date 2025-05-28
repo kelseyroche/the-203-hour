@@ -54,6 +54,7 @@ export default {
                 { title: 'Norwalk', value: 'norwalk' },
                 { title: 'South Norwalk (SoNo)', value: 'sono' },
                 { title: 'Darien', value: 'darien' },
+                { title: 'Main St', value: 'main-st'}
               ],
               layout: 'tags', // Makes it look like tags in the studio
             },

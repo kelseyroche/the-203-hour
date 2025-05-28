@@ -1,0 +1,12 @@
+.venue-list {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .filter-container {
+    margin: 1rem;
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+  }
